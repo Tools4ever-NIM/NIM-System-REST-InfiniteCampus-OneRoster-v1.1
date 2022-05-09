@@ -1,14 +1,14 @@
 # NIM-System-REST-InfiniteCampus-OneRoster-v1.1
 Infinite Campus SIS - OneRoster v1.1
 
-#Requirements
+# Requirements
 - IMSGlobal OneRoster v1.1 Connector (https://github.com/Tools4ever-NIM/NIM-System-REST-IMSGlobal-OneRoster)
 - Infinite Campus OneRoster v1.1 with OAuth 2.0 Credentials
 
-#Documentation
+# Documentation
 https://kb.infinitecampus.com/help/oneroster-11-data-models 
 
-#Configure API Access
+# Configure API Access
 See https://kb.infinitecampus.com/help/configuring-oneroster-connections
 
 ![image](https://user-images.githubusercontent.com/24281600/167486179-ea81acdb-6017-4764-9471-498d7f711e8b.png)
